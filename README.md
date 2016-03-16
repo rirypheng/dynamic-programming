@@ -1,2 +1,2 @@
 # dynamic-programming
-Dynamic Programming
+Dynamic Programming notes and findings for in-house presentation
