@@ -32,6 +32,7 @@ The essence of dynamic programming is Richard Bellman's Principle of Optimality.
 "An optimal policy has the property that whatever the initial state and the initial decisions are, the remaining decisions must constitute an optimal policy with regard to the state resulting from the first decision."
 
 This is a self-evident principle in the sense that a proof by contradiction is immediate. Rutherford Aris restates the principle in more colloquial terms:
+
 "If you don't do the best with what you have happened to have got, you will never do the best with what you should have had."
 
 
