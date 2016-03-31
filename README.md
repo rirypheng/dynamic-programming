@@ -13,7 +13,7 @@ Interesting Use Cases
 * Distribution of effort problem (Operational Research):
   * https://www.oxbridgenotes.co.uk/revision_notes/operational-research-lse-operational-research-techniques/samples/further-dynamic-programming
   * http://www-home.math.uwo.ca/~heinicke/courses/236_03/dynprog_virusex_upd.htm
-  * http://web.csulb.edu/~obenli/Research/IE-encyc/dynprog.html (good intro)
+  * http://web.csulb.edu/~obenli/Research/IE-encyc/dynprog.html (good intro and usage of DP to solve inventory control problem aka Dynamic lot-size model)
 
 
 Dynamic Programming vs ...
