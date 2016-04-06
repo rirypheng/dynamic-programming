@@ -5,7 +5,7 @@ Links
 -----
 * [Dynamic Programming – From Novice to Advanced] (https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
 * [Introduction to Dynamic Programming Applied to Economic] (http://www.fep.up.pt/docentes/joao/material/aea/notas_pbrito_2008.pdf)
-
+* [Principle of Optimality - Dynamic Programming] (https://www.youtube.com/watch?v=_zE5z-KZGRw)
 
 Interesting Use Cases
 ---------------------
