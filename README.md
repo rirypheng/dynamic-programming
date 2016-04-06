@@ -18,9 +18,10 @@ Interesting Use Cases
 
 Dynamic Programming vs ...
 --------------------------
-* Divide and Conquer
-* Memoization
+* [Divide and Conquer] (https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms)
+* [Memoization] (https://en.wikipedia.org/wiki/Memoization)
 * [Recursion] (https://www.codechef.com/wiki/tutorial-dynamic-programming#Cold_War_between_Systematic_Recursion_and_Dynamic_programming)
+* [Greedy] (https://en.wikipedia.org/wiki/Greedy_algorithm)
 
 
 History
