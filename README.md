@@ -7,6 +7,12 @@ Links
 * [Introduction to Dynamic Programming Applied to Economic] (http://www.fep.up.pt/docentes/joao/material/aea/notas_pbrito_2008.pdf)
 * [Principle of Optimality - Dynamic Programming] (https://www.youtube.com/watch?v=_zE5z-KZGRw)
 
+Knapsack
+--------
+* [Solving using the bottom up approach with detailed explanation and images] (http://www.es.ele.tue.nl/education/5MC10/Solutions/knapsack.pdf)
+* [Comparing bottom up and top down approach (code in Java)] (https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/Knapsack01.java)
+* [Comparing bottom up and top down approach with solution picker diagrams (code in C)] (http://www.programminglogic.com/knapsack-problem-dynamic-programming-algorithm/)
+
 Interesting Use Cases
 ---------------------
 * https://www.youtube.com/watch?v=qadw0BRKeMk
